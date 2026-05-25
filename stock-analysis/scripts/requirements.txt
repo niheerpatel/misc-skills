@@ -1,0 +1,2 @@
+# Python 3.8+ required.
+certifi>=2024.0.0   # macOS Python certificate fix for HTTPS requests
